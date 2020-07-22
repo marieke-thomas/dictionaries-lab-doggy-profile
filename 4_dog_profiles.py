@@ -48,3 +48,7 @@ print(dog_profiles[0]["first_name"])
 
 
 # 8 For each dog in the list, IF the dog is older than 5, print "What a good doggo!". If the dog is younger than 5, print "Such a cute puppy!"
+
+
+
+# 9 For each dog in the list, print one message if the dog is brown and a different message if the dog has a different fur color.
