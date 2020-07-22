@@ -12,3 +12,34 @@ dog_profiles=[
  ]
 
 print(dog_profiles[0]["first_name"])
+
+# Challenges
+# 1 Uncomment the line of code below and run it. Write a comment explaining what this line prints.
+# print(dog_profiles[3])
+
+
+
+# 2 Uncomment the line of code below and run it. Write a comment explaining what this line prints.
+# print(dog_profiles[3]["first_name"])
+
+
+
+# 3 Print Gracie's fur color
+
+
+
+# 4 Print Yoda's weight
+
+
+
+# 5 Using the information from the list, print out a sentence for the first dog saying "____'s favorite activity is _____"
+
+
+
+
+# 6 Now for each dog, print a sentence saying "____'s favorite activity is _____"
+
+
+
+
+# 7 For each dog, print a sentence saying "_____ is _____ years old"
