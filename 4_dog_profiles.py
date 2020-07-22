@@ -43,3 +43,8 @@ print(dog_profiles[0]["first_name"])
 
 
 # 7 For each dog, print a sentence saying "_____ is _____ years old"
+
+
+
+
+# 8 For each dog in the list, IF the dog is older than 5, print "What a good doggo!". If the dog is younger than 5, print "Such a cute puppy!"
