@@ -15,12 +15,10 @@ print(dog_profiles[0]["first_name"])
 
 # Challenges
 # 1 Uncomment the line of code below and run it. Write a comment explaining what this line prints.
-# print(dog_profiles[3])
 
 
 
 # 2 Uncomment the line of code below and run it. Write a comment explaining what this line prints.
-# print(dog_profiles[3]["first_name"])
 
 
 
