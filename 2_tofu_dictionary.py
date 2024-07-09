@@ -11,17 +11,14 @@ cutedoggy32 = {
 }
 
 # Read a dictionary
-# print(cutedoggy32["age"])
+
 
 # Update a dictionary
-# cutedoggy32["age"] = 8
-# print(cutedoggy32)
 # Happy birthday Tofu
 
 
 # Delete
-# cutedoggy32.pop("favorite activity")
-# print(cutedoggy32)
+
 
 # Challenges! The last line prints the dictionary so you can check if your updates are working!
 #1 Print out Tofu's fur color
