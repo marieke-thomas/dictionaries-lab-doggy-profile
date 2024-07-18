@@ -20,7 +20,7 @@ cutedoggy32 = {
 # Delete
 
 
-# Challenges! The last line prints the dictionary so you can check if your updates are working!
+# Practice! The last line prints the dictionary so you can check if your updates are working!
 #1 Print out Tofu's fur color
 
 
@@ -33,20 +33,20 @@ cutedoggy32 = {
 #4 Delete Tofu's favorite activity from the dictionary
 
 
-#5 For each category in the profile, print out a statement that says "Tofu's ____ is ____" and fill in the blanks.
+#5 Tofu's middle name is "Seitan". Add that to the profile
 
 
-# 6 Tofu's middle name is "Seitan". Add that to the profile
+#6 Print Tofu's middle name
 
 
-# 7 Print Tofu's middle name
-
-
-#8 A lot of sites include a section for what someone is looking for. Create a list of 3 adjectives that Tofu is looking for in a doggie friend and add the list to the dictionary (you will have a list within a dictionary)
+#7 A lot of sites include a section for what someone is looking for. Create a list of 3 adjectives that Tofu is looking for in a doggie friend and add the list to the dictionary (you will have a list within a dictionary)
 
 
 
-# 9 Print out the second of the adjectives that you just came up with
+#8 Print out the second of the adjectives that you just came up with
+
+
+#9 CHALLENGE: For each category in the profile, print out a statement that says "Tofu's ____ is ____" and fill in the blanks.
 
 
 print(cutedoggy32)
