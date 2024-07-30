@@ -15,11 +15,11 @@ print(dog_profiles[0]["first_name"])
 
 # Challenges
 # 1 Uncomment the line of code below and run it. Write a comment explaining what this line prints.
-
+# print(dog_profiles[3])
 
 
 # 2 Uncomment the line of code below and run it. Write a comment explaining what this line prints.
-
+# print(dog_profiles[3]["first_name"])
 
 
 # 3 Print Gracie's fur color
@@ -45,7 +45,7 @@ print(dog_profiles[0]["first_name"])
 
 
 
-# 8 For each dog in the list, IF the dog is older than 5, print "What a good doggo!". If the dog is younger than 5, print "Such a cute puppy!"
+# 8 For each dog in the list, IF the dog is 5 or older, print "What a good doggo!". If the dog is younger than 5, print "Such a cute puppy!"
 
 
 
